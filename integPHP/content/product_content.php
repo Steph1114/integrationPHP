@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="product-item">
                     <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex ms-auto rounded">
+                        <div class="bg-faded first-heading-section p-5 d-flex ms-auto rounded">
                             <h2 class="section-heading mb-0">
                                 <span class="section-heading-upper">Patisserie</span>
                                 <span class="section-heading-lower">Nos meilleurs Ingrédients</span>

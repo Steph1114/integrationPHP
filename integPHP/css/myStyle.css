@@ -1,0 +1,23 @@
+.nav-item a,
+.intro-button a {
+    text-decoration: none;
+}
+
+.intro-button a {
+    color: #fff;
+}
+
+.intro-button a:hover {
+    color: #fff;
+    background-color: #df902a;
+    border-color: #df902a;
+}
+
+.list-hours-item a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.first-heading-section {
+    margin-right: 7.3rem !important;
+}
