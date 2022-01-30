@@ -1,0 +1,56 @@
+.nav-item a,
+.intro-button a {
+    text-decoration: none;
+}
+
+.intro-button a {
+    color: #fff;
+}
+
+.intro-button a:hover {
+    color: #fff;
+    background-color: #df902a;
+    border-color: #df902a;
+}
+
+.list-hours-item a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.list-hours-item a:hover {
+    color: #007bff;
+    text-decoration: underline;
+}
+
+.first-heading-section {
+    margin-right: 7.3rem !important;
+}
+
+.product-item-description {
+    margin-left: 4.65rem !important;
+}
+
+.second-heading-section {
+    margin-left: 4.5rem !important;
+}
+
+.second-description {
+    max-width: 50vw;
+    position: relative;
+    z-index: 1;
+    margin-top: -3rem;
+    margin-left: 14rem;
+}
+
+@media screen and (min-width: 400px) {
+    .second-description {
+        margin-left: 27.2rem;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .second-description {
+        margin-left: 27.2rem;
+    }
+}

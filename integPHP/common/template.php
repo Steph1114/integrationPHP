@@ -44,14 +44,14 @@
                 break;
 
                 default;
-              //  <html><a href="404.php"></a></html> 
 
+                include("content/404.php");
+                break;
 
-                
-               //include('404.php');
-                header('Location: http://www.404.php');
-                exit();
-                break;               
+               //Si redirection vers une page
+                // header('Location: http://www.404.php');
+                // exit();
+                // break;               
             }
 
               // <!-- Main / Section content de l'index -->

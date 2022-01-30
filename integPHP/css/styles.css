@@ -11308,11 +11308,16 @@ p {
         z-index: 0;
         max-width: 60vw;
     }
-    .product-item .product-item-description {
+    .product-item {
         position: relative;
         z-index: 1;
         margin-top: -3rem;
-        max-width: 50vw;
+        max-width: 60vw;
+    }
+    .second-description {
+        position: relative;
+        z-index: 1;
+        margin-top: -3rem;
     }
 }
 
