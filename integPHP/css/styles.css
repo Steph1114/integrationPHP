@@ -11308,17 +11308,17 @@ p {
         z-index: 0;
         max-width: 60vw;
     }
-    .product-item {
+    .product-item .product-item-description {
         position: relative;
         z-index: 1;
         margin-top: -3rem;
-        max-width: 60vw;
+        max-width: 50vw;
     }
-    .second-description {
+    /* .second-description {
         position: relative;
         z-index: 1;
         margin-top: -3rem;
-    }
+    } */
 }
 
 .list-hours {
