@@ -29,6 +29,9 @@
 
 .product-item-description {
     margin-left: 4.65rem !important;
+    margin-top: -3rem;
+    z-index: 1;
+    opacity: 0.9;
 }
 
 .second-heading-section {

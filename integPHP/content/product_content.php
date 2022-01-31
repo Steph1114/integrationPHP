@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="product-item">
                     <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex me-auto rounded">
+                        <div class="bg-faded second-heading-section p-5 d-flex me-auto rounded">
                             <h2 class="section-heading mb-0">
                                 <span class="section-heading-upper">Equipez vous comme il faut</span>
                                 <span class="section-heading-lower">Ustensiles</span>
@@ -28,8 +28,12 @@
                         </div>
                     </div>
                     <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="assets/img/products-02.jpg" alt="..." />
-                    <div class="product-item-description d-flex ms-auto">
-                        <div class="bg-faded p-5 rounded"><p class="mb-0">Vous pouvez choisir de travailler dans les meilleurs conditions, en achetant nos ustensiles Nesti. Beaux et fiables, vous pouvez les offrir à vos proches, et ainsi être sur de leur faire plaisir</p></div>
+                    <div class=" second-description me-auto d-flex">
+                        <div class="bg-faded p-5 rounded">
+                            <p class="mb-0">Vous pouvez choisir de travailler dans les meilleurs conditions, en achetant nos ustensiles Nesti. 
+                                Beaux et fiables, vous pouvez les offrir à vos proches, et ainsi être sur de leur faire plaisir
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -38,7 +42,7 @@
             <div class="container">
                 <div class="product-item">
                     <div class="product-item-title d-flex">
-                        <div class="bg-faded p-5 d-flex ms-auto rounded">
+                        <div class="bg-faded p-5 d-flex first-heading-section ms-auto rounded">
                             <h2 class="section-heading mb-0">
                                 <span class="section-heading-upper">En toute saison</span>
                                 <span class="section-heading-lower">Nos recettes</span>
